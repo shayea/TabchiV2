@@ -38,10 +38,4 @@ screen ./launch.sh auto
 ----------------------------------------------------
 • ربات به زبان روسی میباشد •
 
-• برای آموزش کار در کانال زیر عضو شوید •
-
-• https://telegram.me/ExtraTab •
-
-• نویسنده فریم ورک و سورس اکسترا تب •
-
-• https://telegram.me/MaQzAfzar •
+@HalQew Developed
